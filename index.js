@@ -12,9 +12,9 @@ import {
   buttonElement,
   cardsElement,
   usersInputElement,
-} from "../scripts/elements.js";
+} from "./scripts/elements.js";
 
-import performSearch from "../scripts/performSearch.js";
+import performSearch from "./scripts/performSearch.js";
 
 // const USERS_API = "https://api.github.com/search/users?q=apple+org"
 
